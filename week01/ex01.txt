@@ -1,0 +1,5 @@
+/usr/bin/xfs_freeze
+/usr/bin/udiskie-umount
+/usr/bin/opt
+/usr/bin/mbedtls_rsa_verify
+/usr/bin/gie

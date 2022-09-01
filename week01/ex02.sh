@@ -1,0 +1,1 @@
+history 5 > ~/week1/ex2.txt
