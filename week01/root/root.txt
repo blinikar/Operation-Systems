@@ -13,10 +13,10 @@ drwxr-xr-x  16 root root  4096 Jun 20 13:14 opt
 drwxr-xr-x   4 root root  4096 Jul  1 19:23 mnt
 drwxr-x---  11 root root  4096 Aug 16 12:55 root
 drwxr-xr-x   9 root root  4096 Aug 31 15:58 usr
-dr-xr-xr-x 267 root root     0 Sep  1 11:08 proc
-dr-xr-xr-x  13 root root     0 Sep  1 11:08 sys
 drwxr-xr-x  12 root root  4096 Sep  1 11:08 var
-drwxr-xr-x  21 root root  4080 Sep  1 11:08 dev
-drwxr-xr-x  33 root root   800 Sep  1 11:08 run
-drwxr-xr-x 126 root root 12288 Sep  1 11:08 etc
-drwxrwxrwt  15 root root   480 Sep  1 11:39 tmp
+dr-xr-xr-x  13 root root     0 Sep  2 09:55 sys
+dr-xr-xr-x 266 root root     0 Sep  2 09:55 proc
+drwxr-xr-x  21 root root  4080 Sep  2 09:55 dev
+drwxr-xr-x  33 root root   800 Sep  2 09:55 run
+drwxr-xr-x 126 root root 12288 Sep  2 09:55 etc
+drwxrwxrwt  13 root root   420 Sep  2 09:56 tmp

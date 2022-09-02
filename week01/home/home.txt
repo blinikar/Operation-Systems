@@ -22,4 +22,4 @@ drwxr-xr-x  3 blinikar blinikar    4096 Jun 24 19:50 winegames
 drwxr-xr-x 15 blinikar blinikar    4096 Aug 17 14:42 WebstormProjects
 drwxr-xr-x  6 blinikar blinikar   12288 Aug 31 16:01 Downloads
 drwxr-xr-x 19 blinikar blinikar    4096 Aug 31 16:03 Desktop
-drwxr-xr-x  4 blinikar blinikar    4096 Sep  1 11:14 os
+drwxr-xr-x  4 blinikar blinikar    4096 Sep  1 11:59 os
