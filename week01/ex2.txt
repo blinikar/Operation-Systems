@@ -1,5 +1,5 @@
-  530  history 5
-  531  echo "===Done==="
-  532  echo "have a nice day"
-  533  history 5
-  534  history 5 > ex02.txt
+  560  ls .
+  561  ls /
+  562  ls ~
+  563  echo "Almost done!"
+  564  history 5 > ex2.txt
