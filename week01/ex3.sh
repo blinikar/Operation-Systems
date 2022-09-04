@@ -12,8 +12,5 @@ touch ./root/root.txt
 ls -lt -r ~ > ./home/home.txt
 ls -lt -r / > ./root/root.txt
 
-less ./home/home.txt
-less ./root/root.txt
-
-ls ./home
-ls ./root
+cat ./home/home.txt ./root/root.txt
+ls home root
