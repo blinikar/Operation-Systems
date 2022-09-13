@@ -21,7 +21,6 @@ int tribonacci(int n)
     return result;
 }
 
-
 int main(void) 
 {
     printf("%d\n", tribonacci(4));
