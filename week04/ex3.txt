@@ -1,0 +1,2 @@
+Each child calls fork() by himself and becomes parent for two childs.
+As a result we will get large tree of processes.
