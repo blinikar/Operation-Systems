@@ -1,0 +1,4 @@
+Firstly, the perfomance increasing when count of threads increasing, but perfomance
+reaches some limit when threads count increasing, because the processor of my laptop 
+can't handle more than 4 threads instanly, so after creating more than 4 threads there
+is no difference in perfomance.

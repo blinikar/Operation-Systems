@@ -1,0 +1,8 @@
+Firstly, the perfomance increasing when count of threads increasing, but perfomance
+reaches some limit when threads count increasing, because the processor of my laptop 
+can't handle more than 4 threads instanly, so after creating more than 4 threads there
+is no difference in perfomance.
+
+Secondly, compairing results with the 3rd task there is some difference in perfomance.
+4th works faster (or equal) than 3rd, because each thread has the same level of 
+work as each other, when in the 3rd approach there is differnt level of thread's load.
