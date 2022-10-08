@@ -1,0 +1,4 @@
+== EXPLANATION ==
+Those approaches show the different results in avg TAT and avg waiting time. In second approach
+processes has lesser time to wait because scheduler chosed only tasks that least time to execute.
+=== 
