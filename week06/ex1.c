@@ -61,8 +61,8 @@ int main(void) {
     }
 
     printf("=== Metrics ===\n");
-    float waitingAvg = waitingSum / n;
-    float tatAvg = tatSum / n;
+    float waitingAvg = (float)waitingSum / n;
+    float tatAvg = (float)tatSum / n;
 
     printf("Average waiting time: %f\n", waitingAvg);
     printf("Average TAT: %f\n", tatAvg);
