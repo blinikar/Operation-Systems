@@ -80,8 +80,6 @@ int main(void) {
         processes[smallest].timeToComplete--;
         execTime++;
 
-        printf("%d", smallest);
-
         if (processes[smallest].timeToComplete == 0) {
             count++;
             inProgress = -1;
