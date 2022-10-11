@@ -66,6 +66,8 @@ int main(void) {
             }
         }
 
+        if (execTime == timeQuantum) shiftQueue(queue, queueN);
+
         if (queueN == 0) continue;
 
         if (inProgress >= 0 && execTime < timeQuantum) smallest = inProgress;
@@ -78,7 +80,7 @@ int main(void) {
         processes[smallest].timeToComplete--;
         execTime++;
 
-        if (execTime == timeQuantum) shiftQueue(queue, queueN);
+        printf("%d", smallest);
 
         if (processes[smallest].timeToComplete == 0) {
             count++;
