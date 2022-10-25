@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <malloc.h>
+#include <string.h>
 
 // I called function my_realloc to avoid problems with name collision
 void* my_realloc(void *ptr, int size) {
