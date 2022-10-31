@@ -23,5 +23,6 @@ int main(void) {
 
 /*
     Experiment with top command approves my hypotesis that system is not swapping 
-    memmory of m program on the disk
+    memmory of m program on the disk. Memory consumtion is increasing during program
+    execution.
 */
