@@ -1,0 +1,4 @@
+2^13, so 13 bits are needed for byte offset
+16-13=3 bits are needed to store indexing table
+2^3 = 8 enteries in table
+ANSWER: 8.
