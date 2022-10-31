@@ -1,0 +1,8 @@
+Virtual memory address is an address in a virtual memory, that is basicly is abstraction. 
+Virtual memory is unique for all processes that is running on the computer. Virtual memory 
+also combines all memory that is swaped and memory that now stored in physical memory. Due 
+to this reason address 12 for one process and address 12 for another process is a different
+addresses.
+
+Physical memory address is a real address in the memory that stores some data. Physical memory 
+addresses is the same for all processes that is running on the computer. 
