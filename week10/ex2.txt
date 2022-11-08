@@ -1,0 +1,3 @@
+I created a file with a smaller adresses divergence. So it supposes that my
+proccess will try to access smaller range of memory adresses. Of course it increases
+Hit/Miss ratio, that can be proven by probabilities theory.  
