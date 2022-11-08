@@ -49,7 +49,7 @@ int main (int argc, char *argv[]) {
     page *memory = malloc(page_frames*sizeof(page));
 
     FILE *fp;
-    fp = fopen("input2.txt", "r");
+    fp = fopen("input1.txt", "r");
 
     for (int i = 0; i < page_frames; i++) {
         memory[i].page = 0;
@@ -66,6 +66,7 @@ int main (int argc, char *argv[]) {
     while (!feof(fp)) {
         count++;
         fscanf(fp, "%s", buff);
+        if (feof(fp)) break;
         int page = atoi(buff);
         
         int index = getIndexInMemory(memory, page_frames, page);

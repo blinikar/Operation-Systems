@@ -1,15 +1,16 @@
 gcc ex1.c -o ex1
 
+# Program setted up for input2.txt (custom file)
 ./ex1 10
 ./ex1 50
 ./ex1 100
 
 # OUTPUT FOR INPUT 1 (MOODLE)
-# Hits: 10, Misses: 991, Ratio: 0.010091
-# Hits: 51, Misses: 950, Ratio: 0.053684
-# Hits: 94, Misses: 907, Ratio: 0.103638
+# Hits: 9, Misses: 991, Ratio: 0.009082
+# Hits: 50, Misses: 950, Ratio: 0.052632
+# Hits: 93, Misses: 907, Ratio: 0.102536
 
 # OUTPUT FOR INPUT 2 (ex2)
-# Hits: 46, Misses: 955, Ratio: 0.048168
-# Hits: 240, Misses: 761, Ratio: 0.315374
-# Hits: 463, Misses: 538, Ratio: 0.860595
+# Hits: 45, Misses: 955, Ratio: 0.047120
+# Hits: 239, Misses: 761, Ratio: 0.314060
+# Hits: 462, Misses: 538, Ratio: 0.858736
