@@ -1,0 +1,6 @@
+6175921 file.txt
+6175921 file.txt
+6175921 file.txt
+6175921 file.txt
+../week01/_ex2.txt
+../week11/file.txt
